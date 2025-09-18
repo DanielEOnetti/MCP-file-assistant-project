@@ -1,0 +1,19 @@
+# Ignora los archivos de entorno
+.env
+
+# Ignora las carpetas y archivos específicos de Django/Python
+__pycache__/
+*.pyc
+*.sqlite3
+/media/
+/static/
+
+# Ignora las carpetas del entorno virtual
+venv/
+.venv/
+env/
+
+# Ignora archivos de sistema o IDEs
+.DS_Store
+.vscode/
+/files/
