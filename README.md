@@ -33,7 +33,7 @@ Abre tu terminal y clona este repositorio:
 
 Bash
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/DanielEOnetti/MCP-file-assistant-project.git
 cd tu_repositorio
 2. Crear y Activar el Entorno Virtual
 Es fundamental trabajar en un entorno virtual para gestionar las dependencias del proyecto de forma aislada.
